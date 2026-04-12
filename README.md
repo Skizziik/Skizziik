@@ -1,22 +1,23 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:7aa2f7,100:bb9af7&height=200&section=header&text=Skizziik&fontSize=70&fontColor=c0caf5&fontAlignY=38&desc=Vibe%20Coder%20%E2%9A%A1%20Powered%20by%20Claude%20Code&descAlignY=58&descSize=20&animation=fadeIn" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hey+there+%F0%9F%91%8B+I'm+Skizziik;Vibe+Coder+%E2%9A%A1+powered+by+Claude+Code;Building+things+with+AI+%F0%9F%A4%96;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=idea+%E2%86%92+AI+%E2%86%92+ship+%E2%86%92+repeat+%F0%9F%9A%80;Building+things+with+Claude+Code+%E2%9A%A1;Always+vibing%2C+never+stopping+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Skizziik&color=6E40C9&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Skizziik&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 </div>
 
 <br/>
 
 ```ts
-const me = {
-  name:     "Skizziik",
+const Skizziik = {
   role:     "Vibe Coder ⚡",
-  weapon:   "Claude Code + good vibes",
+  weapon:   "Claude Code",
   approach: "idea → AI → ship → repeat 🚀",
-  status:   "currently vibing...",
+  openTo:   ["collabs", "cool projects", "good vibes"],
 }
 ```
 
@@ -24,11 +25,11 @@ const me = {
 
 ---
 
-### Tech & Tools
+<h3 align="center">⚙️ Tech & Tools</h3>
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,git,github,vscode,docker&theme=light&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,git,github,vscode,docker&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -36,17 +37,16 @@ const me = {
 
 ---
 
-### GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Skizziik&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skizziik&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Skizziik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skizziik&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skizziik&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skizziik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -54,14 +54,26 @@ const me = {
 
 ---
 
-### Contribution Snake
+<h3 align="center">📈 Activity</h3>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skizziik&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">🐍 Eating contributions...</h3>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skizziik/Skizziik/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skizziik/Skizziik/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Skizziik/Skizziik/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Skizziik/Skizziik/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -70,7 +82,7 @@ const me = {
 
 ---
 
-### Connect
+<h3 align="center">🌐 Connect</h3>
 
 <div align="center">
 
@@ -82,6 +94,4 @@ const me = {
 
 <br/>
 
-<div align="center">
-  <sub>Made with ❤️ and <a href="https://claude.ai/code">Claude Code</a></sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b2e&height=120&section=footer&animation=fadeIn" />
