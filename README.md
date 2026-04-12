@@ -46,24 +46,6 @@ const Skizziik = {
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<!-- Streak reads the PUBLIC contribution graph — shows private activity when enabled in profile settings ✓ -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skizziik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br/><br/>
-
-<!-- Activity graph also reads contribution graph — private commits appear as activity ✓ -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skizziik&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7&line=7aa2f7&point=bb9af7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
 <h3 align="center">🐍 Eating contributions...</h3>
 
 <div align="center">
