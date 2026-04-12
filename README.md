@@ -29,7 +29,16 @@ const Skizziik = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,git,github,vscode,docker&theme=dark&perline=10)](https://skillicons.dev)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -41,24 +50,13 @@ const Skizziik = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Skizziik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skizziik&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<!-- Streak reads the PUBLIC contribution graph — shows private activity when enabled in profile settings ✓ -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skizziik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skizziik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
----
-
-<h3 align="center">📈 Activity</h3>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skizziik&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity graph also reads contribution graph — private commits appear as activity ✓ -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skizziik&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7&line=7aa2f7&point=bb9af7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
