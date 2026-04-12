@@ -46,6 +46,18 @@ const Skizziik = {
 
 ---
 
+<h3 align="center">📈 Activity</h3>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skizziik&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7&line=7aa2f7&point=bb9af7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
 <h3 align="center">🐍 Eating contributions...</h3>
 
 <div align="center">
