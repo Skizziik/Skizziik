@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 16" width="800" height="16">
+  <!-- Base line -->
+  <line x1="100" y1="8" x2="700" y2="8" stroke="#7aa2f7" stroke-width="0.5" opacity="0.12"/>
+
+  <!-- Static twinkling dots along the line -->
+  <circle cx="200" cy="8" r="1" fill="#7aa2f7">
+    <animate attributeName="opacity" values=".1;.45;.1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="8" r="1" fill="#bb9af7">
+    <animate attributeName="opacity" values=".1;.5;.1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="8" r="1.2" fill="#c0caf5">
+    <animate attributeName="opacity" values=".15;.55;.15" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="8" r="1" fill="#bb9af7">
+    <animate attributeName="opacity" values=".1;.5;.1" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="8" r="1" fill="#7aa2f7">
+    <animate attributeName="opacity" values=".1;.45;.1" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Sweeping orb glow -->
+  <circle cy="8" r="12" fill="#7aa2f7" opacity="0">
+    <animate attributeName="cx" values="100;700;100" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".02;.1;.02" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Sweeping orb -->
+  <circle cy="8" r="2.5" fill="#bb9af7">
+    <animate attributeName="cx" values="100;700;100" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;.9;.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

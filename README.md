@@ -12,7 +12,15 @@
 
 <br/>
 
----
+<div align="center">
+<img width="50%" src="./divider.svg" />
+</div>
+
+<br/>
+
+<img width="100%" src="./constellation.svg" />
+
+<br/>
 
 <h3 align="center">⚙️ Tech & Tools</h3>
 
@@ -25,7 +33,9 @@
 
 <br/>
 
----
+<div align="center">
+<img width="50%" src="./divider.svg" />
+</div>
 
 <h3 align="center">📈 Activity</h3>
 
@@ -37,7 +47,9 @@
 
 <br/>
 
----
+<div align="center">
+<img width="50%" src="./divider.svg" />
+</div>
 
 <h3 align="center">🐍 Eating contributions...</h3>
 
@@ -53,7 +65,9 @@
 
 <br/>
 
----
+<div align="center">
+<img width="50%" src="./divider.svg" />
+</div>
 
 <h3 align="center">🌐 Connect</h3>
 

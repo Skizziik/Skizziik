@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+
+  <!-- Connecting lines (static, subtle) -->
+  <line x1="100" y1="30" x2="180" y2="85" stroke="#7aa2f7" stroke-width="0.5" opacity="0.1"/>
+  <line x1="100" y1="30" x2="320" y2="38" stroke="#7aa2f7" stroke-width="0.4" opacity="0.08"/>
+  <line x1="80" y1="95" x2="180" y2="85" stroke="#bb9af7" stroke-width="0.4" opacity="0.08"/>
+  <line x1="180" y1="85" x2="320" y2="38" stroke="#7aa2f7" stroke-width="0.4" opacity="0.07"/>
+  <line x1="180" y1="85" x2="400" y2="92" stroke="#bb9af7" stroke-width="0.5" opacity="0.09"/>
+  <line x1="320" y1="38" x2="400" y2="92" stroke="#7aa2f7" stroke-width="0.4" opacity="0.07"/>
+  <line x1="320" y1="38" x2="540" y2="28" stroke="#7aa2f7" stroke-width="0.5" opacity="0.1"/>
+  <line x1="540" y1="28" x2="620" y2="78" stroke="#bb9af7" stroke-width="0.5" opacity="0.09"/>
+  <line x1="540" y1="28" x2="760" y2="42" stroke="#7aa2f7" stroke-width="0.4" opacity="0.08"/>
+  <line x1="620" y1="78" x2="850" y2="88" stroke="#7aa2f7" stroke-width="0.4" opacity="0.07"/>
+  <line x1="760" y1="42" x2="850" y2="88" stroke="#bb9af7" stroke-width="0.5" opacity="0.09"/>
+  <line x1="760" y1="42" x2="960" y2="32" stroke="#7aa2f7" stroke-width="0.5" opacity="0.1"/>
+  <line x1="960" y1="32" x2="1050" y2="82" stroke="#bb9af7" stroke-width="0.4" opacity="0.08"/>
+  <line x1="960" y1="32" x2="1130" y2="40" stroke="#7aa2f7" stroke-width="0.4" opacity="0.07"/>
+  <line x1="1050" y1="82" x2="1130" y2="40" stroke="#bb9af7" stroke-width="0.5" opacity="0.09"/>
+
+  <!-- Dot 1 (100, 30) blue -->
+  <circle r="2" fill="#7aa2f7">
+    <animate attributeName="cx" values="100;110;93;100" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;22;37;30" dur="22s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".3;.7;.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 2 (180, 85) purple -->
+  <circle r="1.8" fill="#bb9af7">
+    <animate attributeName="cx" values="180;170;190;180" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="85;93;78;85" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.65;.25" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 3 (320, 38) blue -->
+  <circle r="2.2" fill="#7aa2f7">
+    <animate attributeName="cx" values="320;330;312;320" dur="22s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="38;30;45;38" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".3;.75;.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 4 (400, 92) light -->
+  <circle r="1.5" fill="#c0caf5">
+    <animate attributeName="cx" values="400;390;410;400" dur="17s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="92;100;85;92" dur="21s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.55;.2" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 5 (540, 28) purple -->
+  <circle r="2" fill="#bb9af7">
+    <animate attributeName="cx" values="540;550;532;540" dur="21s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="28;20;35;28" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".3;.7;.3" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 6 (620, 78) blue -->
+  <circle r="1.8" fill="#7aa2f7">
+    <animate attributeName="cx" values="620;610;630;620" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="78;86;71;78" dur="22s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.6;.25" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 7 (760, 42) blue, larger -->
+  <circle r="2.5" fill="#7aa2f7">
+    <animate attributeName="cx" values="760;770;752;760" dur="23s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="42;34;50;42" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".35;.8;.35" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 8 (850, 88) purple -->
+  <circle r="1.5" fill="#bb9af7">
+    <animate attributeName="cx" values="850;840;860;850" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="88;95;80;88" dur="17s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.6;.2" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 9 (960, 32) light -->
+  <circle r="2" fill="#c0caf5">
+    <animate attributeName="cx" values="960;970;952;960" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="32;24;40;32" dur="23s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".3;.7;.3" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 10 (1050, 82) blue -->
+  <circle r="1.8" fill="#7aa2f7">
+    <animate attributeName="cx" values="1050;1040;1060;1050" dur="22s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="82;90;75;82" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.65;.25" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 11 (1130, 40) purple -->
+  <circle r="1.5" fill="#bb9af7">
+    <animate attributeName="cx" values="1130;1140;1122;1130" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="40;32;48;40" dur="21s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.55;.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 12 (80, 95) blue, small -->
+  <circle r="1.2" fill="#7aa2f7">
+    <animate attributeName="cx" values="80;90;72;80" dur="21s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="95;88;102;95" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.5;.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
