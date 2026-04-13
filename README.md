@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:7aa2f7,100:bb9af7&height=200&section=header&text=Skizziik&fontSize=70&fontColor=c0caf5&fontAlignY=38&desc=Vibe%20Coder%20%E2%9A%A1%20Powered%20by%20Claude%20Code&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:7aa2f7,100:bb9af7&height=200&section=header&text=Skizziik&fontSize=70&fontColor=c0caf5&fontAlignY=38&animation=fadeIn" />
 
 <div align="center">
 
