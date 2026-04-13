@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:7aa2f7,100:bb9af7&height=200&section=header&text=Skizziik&fontSize=70&fontColor=c0caf5&fontAlignY=38&animation=fadeIn" />
+<img width="100%" src="./header.svg" />
 
 <div align="center">
 
@@ -67,4 +67,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b2e&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="./footer.svg" />
