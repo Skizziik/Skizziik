@@ -7,69 +7,118 @@
     </linearGradient>
   </defs>
 
-  <style>
-    @keyframes c1{0%,100%{transform:translate(0,0);opacity:0}4%{opacity:.9}20%{transform:translate(-180px,100px);opacity:0}21%,100%{opacity:0}}
-    @keyframes c2{0%,25%{transform:translate(0,0);opacity:0}29%{opacity:.7}45%{transform:translate(-160px,90px);opacity:0}46%,100%{opacity:0}}
-    @keyframes c3{0%,50%{transform:translate(0,0);opacity:0}54%{opacity:.85}70%{transform:translate(-200px,95px);opacity:0}71%,100%{opacity:0}}
-    @keyframes c4{0%,72%{transform:translate(0,0);opacity:0}76%{opacity:.6}92%{transform:translate(-170px,85px);opacity:0}93%,100%{opacity:0}}
-    .c1{animation:c1 6s linear infinite}
-    .c2{animation:c2 6s linear infinite}
-    .c3{animation:c3 6s linear infinite}
-    .c4{animation:c4 6s linear infinite}
-    @keyframes tw1{0%,100%{opacity:.15}50%{opacity:.6}}
-    @keyframes tw2{0%,100%{opacity:.25}50%{opacity:.75}}
-    @keyframes tw3{0%,100%{opacity:.1}50%{opacity:.5}}
-    .tw1{animation:tw1 3s ease-in-out infinite}
-    .tw2{animation:tw2 4s ease-in-out infinite}
-    .tw3{animation:tw3 5s ease-in-out infinite}
-  </style>
-
   <!-- Background with wavy top -->
   <path d="M0,30 C66,10 133,10 200,30 C266,50 333,50 400,30 C466,10 533,10 600,30 C666,50 733,50 800,30 C866,10 933,10 1000,30 C1066,50 1133,50 1200,30 L1200,120 L0,120 Z" fill="url(#bg)"/>
 
-  <!-- Stars -->
-  <circle cx="80" cy="55" r=".8" fill="#c0caf5" class="tw1"/>
-  <circle cx="180" cy="85" r="1" fill="#c0caf5" class="tw2"/>
-  <circle cx="300" cy="50" r=".7" fill="#c0caf5" class="tw3"/>
-  <circle cx="420" cy="95" r=".9" fill="#c0caf5" class="tw1"/>
-  <circle cx="540" cy="60" r="1.1" fill="#c0caf5" class="tw2"/>
-  <circle cx="660" cy="100" r=".7" fill="#c0caf5" class="tw3"/>
-  <circle cx="780" cy="55" r=".9" fill="#c0caf5" class="tw1"/>
-  <circle cx="900" cy="90" r="1" fill="#c0caf5" class="tw2"/>
-  <circle cx="1020" cy="65" r=".8" fill="#c0caf5" class="tw3"/>
-  <circle cx="1130" cy="100" r="1" fill="#c0caf5" class="tw1"/>
-  <circle cx="150" cy="110" r=".6" fill="#c0caf5" class="tw2"/>
-  <circle cx="500" cy="105" r=".8" fill="#c0caf5" class="tw3"/>
-  <circle cx="850" cy="110" r=".7" fill="#c0caf5" class="tw1"/>
-  <circle cx="1080" cy="45" r=".9" fill="#c0caf5" class="tw2"/>
+  <!-- Twinkling stars -->
+  <circle cx="80" cy="58" r=".8" fill="#c0caf5">
+    <animate attributeName="opacity" values=".15;.6;.15" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="88" r="1" fill="#c0caf5">
+    <animate attributeName="opacity" values=".25;.75;.25" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="52" r=".7" fill="#c0caf5">
+    <animate attributeName="opacity" values=".1;.5;.1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="98" r=".9" fill="#c0caf5">
+    <animate attributeName="opacity" values=".2;.65;.2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="62" r="1.1" fill="#c0caf5">
+    <animate attributeName="opacity" values=".15;.6;.15" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="660" cy="102" r=".7" fill="#c0caf5">
+    <animate attributeName="opacity" values=".2;.7;.2" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="55" r=".9" fill="#c0caf5">
+    <animate attributeName="opacity" values=".1;.55;.1" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="92" r="1" fill="#c0caf5">
+    <animate attributeName="opacity" values=".25;.7;.25" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="68" r=".8" fill="#c0caf5">
+    <animate attributeName="opacity" values=".15;.6;.15" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1130" cy="105" r="1" fill="#c0caf5">
+    <animate attributeName="opacity" values=".2;.65;.2" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="112" r=".6" fill="#c0caf5">
+    <animate attributeName="opacity" values=".1;.5;.1" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="108" r=".8" fill="#c0caf5">
+    <animate attributeName="opacity" values=".2;.7;.2" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="112" r=".7" fill="#c0caf5">
+    <animate attributeName="opacity" values=".15;.55;.15" dur="4.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="48" r=".9" fill="#c0caf5">
+    <animate attributeName="opacity" values=".2;.65;.2" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
 
-  <!-- Comets -->
-  <g class="c1" transform="translate(250,35)">
-    <line x1="0" y1="0" x2="38" y2="-19" stroke="white" stroke-width=".5" opacity=".12"/>
-    <line x1="0" y1="0" x2="24" y2="-12" stroke="white" stroke-width=".9" opacity=".28"/>
-    <line x1="0" y1="0" x2="11" y2="-5" stroke="white" stroke-width="1.3" opacity=".45"/>
+  <!-- Comet 1: medium, active 0–15% -->
+  <g opacity="0">
+    <line x1="0" y1="0" x2="42" y2="-21" stroke="white" stroke-width=".8" opacity=".17"/>
+    <line x1="0" y1="0" x2="28" y2="-14" stroke="white" stroke-width="1.2" opacity=".34"/>
+    <line x1="0" y1="0" x2="13" y2="-6" stroke="white" stroke-width="1.6" opacity=".52"/>
     <circle cx="0" cy="0" r="1.8" fill="white"/>
-    <circle cx="0" cy="0" r="4.5" fill="white" opacity=".07"/>
+    <circle cx="0" cy="0" r="4.5" fill="white" opacity=".09"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="280 32; 120 100; 120 100"
+      keyTimes="0; 0.15; 1"
+      dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0; 0.9; 0.9; 0; 0"
+      keyTimes="0; 0.01; 0.13; 0.15; 1"
+      dur="8s" repeatCount="indefinite"/>
   </g>
-  <g class="c2" transform="translate(600,32)">
-    <line x1="0" y1="0" x2="32" y2="-16" stroke="white" stroke-width=".4" opacity=".1"/>
-    <line x1="0" y1="0" x2="20" y2="-10" stroke="white" stroke-width=".8" opacity=".24"/>
-    <line x1="0" y1="0" x2="9" y2="-4" stroke="white" stroke-width="1.1" opacity=".4"/>
+
+  <!-- Comet 2: small, active 25–37% -->
+  <g opacity="0">
+    <line x1="0" y1="0" x2="30" y2="-15" stroke="white" stroke-width=".5" opacity=".13"/>
+    <line x1="0" y1="0" x2="18" y2="-9" stroke="white" stroke-width=".9" opacity=".28"/>
+    <line x1="0" y1="0" x2="8" y2="-4" stroke="white" stroke-width="1.1" opacity=".46"/>
     <circle cx="0" cy="0" r="1.4" fill="white"/>
-    <circle cx="0" cy="0" r="3.5" fill="white" opacity=".06"/>
+    <circle cx="0" cy="0" r="3.5" fill="white" opacity=".07"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="650 30; 650 30; 530 95; 530 95"
+      keyTimes="0; 0.25; 0.37; 1"
+      dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0; 0; 0.75; 0.75; 0; 0"
+      keyTimes="0; 0.25; 0.26; 0.35; 0.37; 1"
+      dur="8s" repeatCount="indefinite"/>
   </g>
-  <g class="c3" transform="translate(950,30)">
-    <line x1="0" y1="0" x2="42" y2="-21" stroke="white" stroke-width=".5" opacity=".13"/>
-    <line x1="0" y1="0" x2="28" y2="-14" stroke="white" stroke-width="1" opacity=".28"/>
-    <line x1="0" y1="0" x2="13" y2="-6" stroke="white" stroke-width="1.4" opacity=".48"/>
+
+  <!-- Comet 3: medium, active 50–65% -->
+  <g opacity="0">
+    <line x1="0" y1="0" x2="48" y2="-24" stroke="white" stroke-width=".8" opacity=".18"/>
+    <line x1="0" y1="0" x2="32" y2="-16" stroke="white" stroke-width="1.3" opacity=".36"/>
+    <line x1="0" y1="0" x2="15" y2="-7" stroke="white" stroke-width="1.7" opacity=".54"/>
     <circle cx="0" cy="0" r="2" fill="white"/>
-    <circle cx="0" cy="0" r="5" fill="white" opacity=".07"/>
+    <circle cx="0" cy="0" r="5" fill="white" opacity=".09"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="1000 28; 1000 28; 820 105; 820 105"
+      keyTimes="0; 0.50; 0.65; 1"
+      dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0; 0; 0.85; 0.85; 0; 0"
+      keyTimes="0; 0.50; 0.51; 0.63; 0.65; 1"
+      dur="8s" repeatCount="indefinite"/>
   </g>
-  <g class="c4" transform="translate(1150,38)">
-    <line x1="0" y1="0" x2="30" y2="-15" stroke="white" stroke-width=".4" opacity=".1"/>
-    <line x1="0" y1="0" x2="18" y2="-9" stroke="white" stroke-width=".7" opacity=".22"/>
-    <line x1="0" y1="0" x2="8" y2="-4" stroke="white" stroke-width="1" opacity=".38"/>
+
+  <!-- Comet 4: small, active 75–87% -->
+  <g opacity="0">
+    <line x1="0" y1="0" x2="28" y2="-14" stroke="white" stroke-width=".5" opacity=".12"/>
+    <line x1="0" y1="0" x2="17" y2="-8" stroke="white" stroke-width=".8" opacity=".25"/>
+    <line x1="0" y1="0" x2="7" y2="-3" stroke="white" stroke-width="1" opacity=".42"/>
     <circle cx="0" cy="0" r="1.3" fill="white"/>
-    <circle cx="0" cy="0" r="3.5" fill="white" opacity=".05"/>
+    <circle cx="0" cy="0" r="3.5" fill="white" opacity=".06"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="450 35; 450 35; 330 100; 330 100"
+      keyTimes="0; 0.75; 0.87; 1"
+      dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0; 0; 0.65; 0.65; 0; 0"
+      keyTimes="0; 0.75; 0.76; 0.85; 0.87; 1"
+      dur="8s" repeatCount="indefinite"/>
   </g>
 </svg>
