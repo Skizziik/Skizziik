@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFD34E&center=true&vCenter=true&width=650&height=55&lines=PRESS+START;FOUNDER+%40+TRYLL+ENGINE;VIBECODING+WITH+AI;IDEA+%E2%86%92+SHIP+%E2%86%92+REPEAT" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFD34E&center=true&vCenter=true&width=650&height=55&lines=PRESS+START;FOUNDER+%40+TRYLL+ENGINE;VIBECODING+WITH+AI;IDEA+%3E+SHIP+%3E+REPEAT" alt="subtitle" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <!-- ======================= PLAYER 1 ======================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=%F0%9F%91%BE+PLAYER+1" alt="PLAYER 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=PLAYER+1" alt="PLAYER 1" />
 </div>
 
 <table>
@@ -48,7 +48,7 @@
 
 <!-- ======================= INVENTORY ======================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=%F0%9F%8E%92+INVENTORY" alt="INVENTORY" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=INVENTORY" alt="INVENTORY" />
 </div>
 
 <table align="center">
@@ -72,7 +72,7 @@
 
 <!-- ======================= HIGH SCORE ======================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=%F0%9F%8F%86+HIGH+SCORE" alt="HIGH SCORE" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=HIGH+SCORE" alt="HIGH SCORE" />
 
 <br/>
 
@@ -93,7 +93,7 @@
 
 <!-- ======================= WORLD MAP ======================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=%F0%9F%97%BA+WORLD+MAP" alt="WORLD MAP" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=440&height=44&lines=WORLD+MAP" alt="WORLD MAP" />
 
 <br/>
 
@@ -105,7 +105,7 @@
 
 <!-- ======================= THE SNAKE GAME ======================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=560&height=44&lines=%F0%9F%90%8D+THE+SNAKE+GAME" alt="THE SNAKE GAME" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=560&height=44&lines=THE+SNAKE+GAME" alt="THE SNAKE GAME" />
 
 <br/>
 
@@ -121,7 +121,7 @@
 
 <!-- ======================= JOIN THE PARTY ======================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=560&height=44&lines=%F0%9F%8C%90+JOIN+THE+PARTY" alt="JOIN THE PARTY" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=8ED94F&center=true&vCenter=true&repeat=false&width=560&height=44&lines=JOIN+THE+PARTY" alt="JOIN THE PARTY" />
 
 <br/>
 
@@ -138,5 +138,5 @@
 <img width="100%" src="./assets/banner-footer.png" alt="" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFD34E&center=true&vCenter=true&width=600&height=40&lines=THANKS+FOR+PLAYING;CONTINUE%3F+%E2%96%B6+YES" alt="game over" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFD34E&center=true&vCenter=true&width=600&height=40&lines=THANKS+FOR+PLAYING;CONTINUE%3F+YES" alt="game over" />
 </div>
