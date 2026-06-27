@@ -135,7 +135,7 @@
 <br/>
 
 <!-- ======================= GAME OVER / FOOTER ======================= -->
-<img width="100%" src="./assets/banner-footer.png" alt="" />
+<img width="100%" src="./assets/footer-anim.svg" alt="" />
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFD34E&center=true&vCenter=true&width=600&height=40&lines=THANKS+FOR+PLAYING;CONTINUE%3F+YES" alt="game over" />
