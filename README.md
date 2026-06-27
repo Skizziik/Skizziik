@@ -1,5 +1,5 @@
 <!-- ======================= TITLE SCREEN ======================= -->
-<img width="100%" src="./assets/banner-header.png" alt="SKIZZIIK" />
+<img width="100%" src="./assets/header-anim.svg" alt="SKIZZIIK" />
 
 <div align="center">
 
@@ -28,16 +28,16 @@
 <td width="66%">
 
 ```text
-┌─────────────────────────────────────┐
-│  PLAYER:  Skizziik (Maksim)          │
-│  LVL:     99   ★ vibe-coder          │
-│  CLASS:   Founder / Builder          │
-│  WORLD:   Rome, Italy                │
-│  QUEST:   Building Tryll Engine      │
-│  WEAPONS: Claude Code + Codex        │
-│  PASSIVE: idea -> AI -> ship -> loop │
-│  STATUS:  always shipping, never AFK │
-└─────────────────────────────────────┘
++-------------------------------------+
+| PLAYER : Skizziik (Maksim)          |
+| LVL    : 99  -  vibe-coder          |
+| CLASS  : Founder / Builder          |
+| WORLD  : Rome, Italy                |
+| QUEST  : Building Tryll Engine      |
+| WEAPONS: Claude Code + Codex        |
+| PASSIVE: idea -> AI -> ship -> loop |
+| STATUS : always shipping, never AFK |
++-------------------------------------+
 ```
 
 </td>
