@@ -154,14 +154,42 @@
   <g opacity="0">
     <rect x="-80" y="-1.6" width="80" height="3.2" fill="url(#trail)"/>
     <circle r="3.6" fill="#ffffff"/>
-    <animateMotion path="M 200 90 L 1150 470" dur="9s" begin="1.5s" rotate="auto" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="9s" begin="1.5s" repeatCount="indefinite"/>
+    <animateMotion path="M 200 90 L 1150 470" dur="9s" begin="0.5s" rotate="auto" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="9s" begin="0.5s" repeatCount="indefinite"/>
   </g>
 
   <g opacity="0">
     <rect x="-80" y="-1.6" width="80" height="3.2" fill="url(#trail)"/>
     <circle r="3.6" fill="#ffffff"/>
-    <animateMotion path="M 1500 70 L 650 430" dur="11s" begin="6.0s" rotate="auto" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="11s" begin="6.0s" repeatCount="indefinite"/>
+    <animateMotion path="M 1500 70 L 650 430" dur="11s" begin="2.5s" rotate="auto" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="11s" begin="2.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <rect x="-80" y="-1.6" width="80" height="3.2" fill="url(#trail)"/>
+    <circle r="3.6" fill="#ffffff"/>
+    <animateMotion path="M 100 200 L 900 560" dur="8s" begin="4.5s" rotate="auto" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="8s" begin="4.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <rect x="-80" y="-1.6" width="80" height="3.2" fill="url(#trail)"/>
+    <circle r="3.6" fill="#ffffff"/>
+    <animateMotion path="M 1300 120 L 400 520" dur="10s" begin="6.5s" rotate="auto" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="10s" begin="6.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <rect x="-80" y="-1.6" width="80" height="3.2" fill="url(#trail)"/>
+    <circle r="3.6" fill="#ffffff"/>
+    <animateMotion path="M 600 60 L 1450 400" dur="9.5s" begin="8.5s" rotate="auto" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="9.5s" begin="8.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <rect x="-80" y="-1.6" width="80" height="3.2" fill="url(#trail)"/>
+    <circle r="3.6" fill="#ffffff"/>
+    <animateMotion path="M 850 100 L 150 470" dur="12s" begin="10.5s" rotate="auto" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.07;0.16;0.19;1" dur="12s" begin="10.5s" repeatCount="indefinite"/>
   </g>
 </svg>
