@@ -84,7 +84,7 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Skizziik&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0b2b&title_color=ffd34e&icon_color=8ed94f&text_color=c7d0e0" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Skizziik&show_icons=true&hide=stars&count_private=true&hide_border=true&bg_color=0d0b2b&title_color=ffd34e&icon_color=8ed94f&text_color=c7d0e0" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skizziik&layout=compact&hide_border=true&langs_count=6&bg_color=0d0b2b&title_color=ffd34e&text_color=c7d0e0" alt="top langs" />
 
 </div>
@@ -97,7 +97,7 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skizziik&custom_title=Contribution%20World%20Map&bg_color=0d0b2b&color=8ed94f&line=6abe30&point=ffd34e&area=true&area_color=6abe30&title_color=ffd34e&hide_border=true" alt="activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/Skizziik/Skizziik/output/activity-graph.svg" alt="activity graph" />
 
 </div>
 
