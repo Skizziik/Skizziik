@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation & Activity Graph
 
 on:
   schedule:
@@ -21,6 +21,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23306230&color_dots=%23d7e8c0,%239bbc0f,%238bac0f,%23306230,%230f380f
             dist/github-contribution-grid-snake-dark.svg?color_snake=%239bbc0f&color_dots=%2315240f,%23306230,%235fa832,%238bac0f,%239bbc0f
+
+      # github-readme-activity-graph.vercel.app is down (402 DEPLOYMENT_DISABLED), so render it here
+      - name: Generate activity graph SVG
+        uses: maurodesouza/github-readme-activity-graph-action@6411849745757299611a795fef822a31ca8d1d02 # v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: custom_title=Contribution%20World%20Map&bg_color=0d0b2b&color=8ed94f&line=6abe30&point=ffd34e&area=true&area_color=6abe30&title_color=ffd34e&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
